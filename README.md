@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LittleD0YouKnow
+- 👀 I’m interested in Learning i guess, thats why im here.
+- 🌱 I’m currently learning python and Django (since 08.09.2022)
+- 💞️ I’m looking to collaborate on ... the next year.
+- 📫 How to reach me ... Here i guess, if its possible, i just started, i cant help you with anything.
